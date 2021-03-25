@@ -1,4 +1,4 @@
-# C-ile-ogrenci-notu-hesaplama
+# C
 C İle Öğrenci Notu Hesaplama
 
 odev.txt dosyasındaki verileri okutarak başlıklı bir şekilde her bir öğrenciye ait Öğrenci Numarası, Ad, Soyad, Vize, Final, Proje, 
